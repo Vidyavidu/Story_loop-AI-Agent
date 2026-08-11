@@ -1,0 +1,41 @@
+[
+  {
+    "day": 1,
+    "date": "2026-08-09",
+    "time": "11:46 PM",
+    "status": "done",
+    "title": "Pip's Brave Guidance",
+    "moral": "True courage comes from caring for others, even when you feel small and shy.",
+    "mood": "Heartwarming",
+    "scenes": 5,
+    "video_path": "output\\final_video.mp4",
+    "media_id": "18363927865211811",
+    "error": null
+  },
+  {
+    "day": 2,
+    "date": "2026-08-09",
+    "time": "11:58 PM",
+    "status": "done",
+    "title": "Felix's Welcoming Meadow",
+    "moral": "Including others brings warmth, friendship, and double the fun to everyone.",
+    "mood": "heartwarming",
+    "scenes": 5,
+    "video_path": "output\\final_video.mp4",
+    "media_id": "18035116841827286",
+    "error": null
+  },
+  {
+    "day": 3,
+    "date": "2026-08-09",
+    "time": "11:58 PM",
+    "status": "fail",
+    "title": null,
+    "moral": null,
+    "mood": null,
+    "scenes": null,
+    "video_path": null,
+    "media_id": null,
+    "error": "replace() takes at least 2 positional arguments (1 given)"
+  }
+]
